@@ -1,0 +1,6 @@
+Mitigation Strategies:
+1. Upgrade Software: Keep software up to date to patch vulnerabilities.
+2. Configuration Hardening: Strengthen settings on servers to minimize attack surfaces.
+3. Security Best Practice:  Use firewalls, intrusion detection, and secure coding methods.
+4. Vulnerability Scanning: Conduct regular assessments to find and fix new vulnerabilities.
+5. User Education: Train users on strong passwords and how to spot phishing attempts.
